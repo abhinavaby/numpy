@@ -7,6 +7,9 @@ array_size=array.size
 print("Size of the array:", array_size)
 print("Number of dimensions:", array.nd
 print("Data type of the array:", array.dtype)
+
+
+      \
 print()
 #changing data type
 array_float=array.astype(float)
