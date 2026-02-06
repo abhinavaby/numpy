@@ -9,6 +9,9 @@ print("Number of dimensions:", array.nd
 print("Data type of the array:", array.dtype)
 
 
+      
+
+
       \
 print()
 #changing data type
