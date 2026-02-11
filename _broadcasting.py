@@ -3,7 +3,7 @@ arr=np.array([10, 20, 30, 40, 50])
 discount=10
 # Broadcasting the discount to each element in the array
 finalprice=arr-(arr*discount/100)
-print("Original prices:", arr)
+print("Original prices:"
 print("Final prices after applying discount:", finalprice)  
 pr
 arr2=np.array([1,2,3,45,5])
