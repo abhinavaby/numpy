@@ -7,7 +7,7 @@ print("Original prices:", arr)
 print("Final prices after applying discount:", finalprice)  
 print()
 arr2=np.array([1,2,3,45,5])
-result=arr*2
+result=a
 print("Original array:", arr)
 print("Result after broadcasting multiplication:", result)
 print()
