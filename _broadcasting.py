@@ -1,13 +1,12 @@
 import numpy as np
 arr=np.array([10, 20, 30, 40, 50])
 discount=10
-# Broadcastin the discount to each element in the array
+# Broadcasting the discount to each element in the array
 finalprice=arr-(arr*discount/100)
 print("Original prices:", arr)
 print("Final prices after applying discount:", finalprice)  
 print()
-mmm
-arr2=nparray([1,2,3,45,5])
+arr2=np.array([1,2,3,45,5])
 result=arr*2
 print("Original array:", arr)
 print("Result after broadcasting multiplication:", result)
