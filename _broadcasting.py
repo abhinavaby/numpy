@@ -6,7 +6,7 @@ finalprice=arr-(arr*discount/100)
 print("Original prices:", arr)
 print("Final prices after applying discount:", finalprice)  
 print()
-arr2=np.array([1,2,3,45,5])
+arr2=nparray([1,2,3,45,5])
 result=arr*2
 print("Original array:", arr)
 print("Result after broadcasting multiplication:", result)
