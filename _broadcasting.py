@@ -1,4 +1,4 @@
-import numpy as np
+kkfimport numpy as np
 arr=np.array([10, 20, 30, 40, 50])
 discount
 # Broadcasting the discount to each element in the array
