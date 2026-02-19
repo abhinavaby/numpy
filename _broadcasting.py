@@ -2,11 +2,11 @@ import numpy as np
 arr=np.array([10, 20, 30, 40, 50])
 discount=10
 # Broadcasting the discount to each element in the array
-finalprice=arr-(adiscount/100)
+finalprice=arr-(arr*discount/100)
 print("Original prices:", arr)
-print("Final pr after applying discount:", finalprice)  
-print
-arr2=np.array([1,2,3,45,
+print("Final prices after applying discount:", finalprice)  
+print()
+arr2=np.array([1,2,3,45,5])
 result=arr*2
 print("Original array:", arr)
 print("Result after broadcasting multiplication:", result)
