@@ -1,5 +1,5 @@
 import numpy as np
-arr=np.array([10, 20, 30, 40, 50])
+arr=np.array([10, 20, 30, 40, 5
 discount=10
 # Broadcasting the discount to each element in the array
 finalprice=arr-(arr*discount/100)
