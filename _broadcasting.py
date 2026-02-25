@@ -13,7 +13,7 @@ print("Result after broadcasting multiplication:", result)
 print()
 arr2d=np.array([[1,2,3],[4,5,6],[7,8,9]])
 vector=np.array([1,2
-result2d=arr2d+vector
+result2d=arr2d+ve
 print("Original 2D array:")
 print(arr2d)
 print("Vector to be added:")
